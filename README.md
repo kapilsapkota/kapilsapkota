@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kapilsapkota
 - 👀 I’m interested in php, laravel and some stuffs
-- 🌱 I’m currently learning laravel
+- 🌱 I’m currently on laravel
 - 📫 Contact me on searchin.kapil@gmail.com
 
 <!---
