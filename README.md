@@ -1,3 +1,19 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+13324
+Fork on GitHub
+3482
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+markdown
 <h1 align="center">Hi 👋, I'm Kapil Sapkota</h1>
 <h3 align="center">Laravel Developer</h3>
 
@@ -7,9 +23,15 @@
 
 <p align="left"> <a href="https://twitter.com/searchingkapil" target="blank"><img src="https://img.shields.io/twitter/follow/searchingkapil?logo=twitter&style=for-the-badge" alt="searchingkapil" /></a> </p>
 
-- 🔭 I’m currently working on **Hospital Management System**
+- 🔭 I’m currently working on **Loan Document Management System**
 
 - 🌱 I’m currently learning **Flutter, Django, Drupal, Reactjs, VueJs**
+
+- 👯 I’m looking to collaborate on **Hospital Management System**
+
+- 🤝 I’m looking for help with **open source in laravel projects**
+
+- 👨‍💻 All of my projects are available at [https://www.sapkotakapil.com.np/](https://www.sapkotakapil.com.np/)
 
 - 💬 Ask me about **php, laravel**
 
@@ -36,3 +58,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapilsapkota&show_icons=true&locale=en" alt="kapilsapkota" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapilsapkota&" alt="kapilsapkota" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
