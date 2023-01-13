@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/searchingkapil" target="blank"><img src="https://img.shields.io/twitter/follow/searchingkapil?logo=twitter&style=for-the-badge" alt="searchingkapil" /></a> </p>
 
-- 🔭 I’m currently working on **E Library**
+- 🔭 I’m currently working on **Ecommerce**
 
-- 🌱 I’m currently learning **Flutter, Django, Drupal, Reactjs, VueJs**
+- 🌱 I’m currently learning **Drupal, Reactjs**
 
-- 👯 I’m looking to collaborate on **Hospital Management System**
+- 👯 I’m looking to collaborate on **Open Source Projects In Laravel**
 
 - 🤝 I’m looking for help with **open source in laravel projects**
 
