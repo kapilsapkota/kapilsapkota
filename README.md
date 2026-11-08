@@ -1,34 +1,106 @@
-<h1 align="center">Hi 👋, I'm Kapil Sapkota</h1>
-<h3 align="center">Laravel Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kapilsapkota&label=Profile%20views&color=0e75b6&style=flat" alt="kapilsapkota" /> </p>
+# Hi, I'm Kapil Sapkota 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kapilsapkota" alt="kapilsapkota" /></a> </p>
+### AI-Native Full-Stack Developer | Laravel Engineer
 
-<p align="left"> <a href="https://twitter.com/searchingkapil" target="blank"><img src="https://img.shields.io/twitter/follow/searchingkapil?logo=twitter&style=for-the-badge" alt="searchingkapil" /></a> </p>
+I build scalable web applications, robust backend systems, and AI-powered solutions that solve real-world business problems.
 
-- 👨‍💻 All of my projects are available at [https://www.sapkotakapil.com.np/](https://www.sapkotakapil.com.np/)
+With a strong focus on **PHP and Laravel**, I enjoy designing reliable backend architectures, building high-performance APIs, and developing end-to-end software products. I'm passionate about combining modern software engineering with AI to create intelligent applications, automate workflows, and deliver meaningful business value.
 
-- 💬 Ask me about **php, laravel**
+-  Building scalable web applications and intelligent software solutions.
+-  Exploring AI-native development, LLM integrations, RAG, and AI agents.
+- Focused on clean architecture, API design, performance, and maintainable code.
+- Passionate about turning complex business requirements into practical solutions.
+- Portfolio: [sapkotakapil.com.np](https://www.sapkotakapil.com.np/)
+-  Email: **kapilsapkota1001@gmail.com**
+- Always learning, building, and improving.
 
-- 📫 How to reach me **kapilsapkota1001@gmail.com**
+---
 
-- ⚡ Fun fact **learning continously**
+## Core Expertise
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/searchingkapil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="searchingkapil" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kapilsapkota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kapilsapkota" height="30" width="40" /></a>
-<a href="https://fb.com/kapil.sapkota.14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kapil.sapkota.14" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/kapil sapkota" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kapil sapkota" height="30" width="40" /></a>
+- **Backend Engineering:** PHP, Laravel,Python, MVC, OOP, clean architecture, and scalable application development [Confident to work in any backend framework with AI].
+- **Full-Stack Development:** Building complete web applications from backend systems to frontend experiences.
+- **API Engineering:** RESTful APIs, authentication, authorization, and third-party integrations.
+- **Database Engineering:** Database architecture, MySQL, query optimization, and data integrity.
+- **AI-Native Development:** LLM integrations, AI-powered applications, intelligent automation, and AI agents.
+- **Software Architecture:** Maintainable codebases, reusable components, testing, and performance optimization.
+
+## AI & Modern Development
+
+I'm particularly interested in building software where AI is integrated into the core product experience.
+
+Areas of interest:
+
+- LLM API integrations
+- OpenAI API and AI-powered applications
+- AI agents and tool calling
+- Retrieval-Augmented Generation (RAG)
+- AI-powered search and knowledge systems
+- Intelligent workflow automation
+- AI integration with Laravel applications
+
+My philosophy: **AI should solve real problems, improve productivity, and create measurable value.**
+
+## Technology Stack
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,python" />
 </p>
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/kapilsapkota"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kapilsapkota" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kapilsapkota&show_icons=true&locale=en&layout=compact" alt="kapilsapkota" /></p>
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,react,tailwind,jquery,livewire" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kapilsapkota&show_icons=true&locale=en" alt="kapilsapkota" /></p>
+### Database & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,mongodb,docker,linux,nginx,aws" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kapilsapkota&" alt="kapilsapkota" /></p>
+### Tools & Workflow
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,b,vscode,postman,figma" />
+</p>
 
-Support 🙏
+## What I Build
+
+| Area | Focus |
+|---|---|
+| SaaS Applications | Scalable platforms and business software |
+| Backend Systems | Reliable Laravel applications and business logic |
+| API Development | Secure APIs and third-party integrations |
+| AI Applications | LLM-powered tools, assistants, and intelligent workflows |
+| Business Automation | Intelligent systems that eliminate repetitive tasks |
+| Web Applications | Complete, responsive, user-focused products |
+
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/kapilsapkota">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://twitter.com/searchingkapil">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x" />
+  </a>
+</p>
+
+## Support My Work
+
+If you find my work useful or appreciate what I build, consider supporting me.
+
+<a href="https://www.buymeacoffee.com/kapilsapkota">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
+</a>
+
+---
+
+<p align="center">
+  <b>Build with purpose. Architect for scale. Integrate intelligence. Deliver real value.</b>
+</p>
+
+<p align="center">
+  Thanks for visiting my profile! 
+</p>
