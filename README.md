@@ -61,7 +61,7 @@ My philosophy: **AI should solve real problems, improve productivity, and create
 
 ### Tools & Workflow
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,gitlab,vscode,postman,figma" />
+  <img src="https://skillicons.dev/icons?i=git,github,bitbucket,gitlab,vscode,phpstorm,postman,figma,mysql,filezilla,claude,opencode,chatgpt" />
 </p>
 
 ## What I Build
